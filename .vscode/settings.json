@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/workspaces/Sudoko",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
